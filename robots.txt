@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Disallow: /assets/Hermann_kao_French_Resume.pdf
+Sitemap: http://itishermann.me/sitemap.xml
